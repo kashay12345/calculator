@@ -110,11 +110,11 @@ align-items: center;
 
 }
 
-.key .column span {
+.keys .column span {
     font-size:25px;
 }
 
-.key .column span:hover, .operators span:hover{
+.keys .column span:hover, .operators span:hover{
     background-color:rgba(0,0,0,.2);
 
 }
@@ -125,7 +125,7 @@ align-items: center;
     background-color: #434343;
 }
 
-.delets {
+.delete {
     font-size: 16px;
     text-transform: uppercase;
 }
