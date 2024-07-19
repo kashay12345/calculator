@@ -114,7 +114,7 @@ align-items: center;
     font-size:25px;
 }
 
-.key .column span:hover, .operators spa:hover{
+.key .column span:hover, .operators span:hover{
     background-color:rgba(0,0,0,.2);
 
 }
