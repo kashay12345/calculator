@@ -1,6 +1,6 @@
 "use strict"
-const input = document.querySelector(".input")
-const result = document.querySelector(".result")
+const input = document.querySelector('.input')
+const result = document.querySelector('.result')
 const deleteBtn = document.querySelector('.delete')
 const keys = document.querySelectorAll('.bottom span')
 
@@ -51,7 +51,7 @@ function handleKeyPress(e){
 
 
 }
-    keys.forEach(key=> {
+keys.forEach(key=> {
  key.addEventListener('click', handleKeyPress)
 })
 
